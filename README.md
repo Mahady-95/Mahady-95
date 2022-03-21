@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AshekMahady?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AshekMahady)
 
-## I'm a Lover, Developer, and Student!!
+## I am a student of American Inrernational University-Bangladesh
 
 - :seedling: I’m currently learning everything :rofl:
 - :people_with_bunny_ears_partying: I’m looking to collaborate with other developers
@@ -13,7 +13,7 @@
 - :speech_balloon: Ask me about ...
 - :mailbox: How to reach me: ...
 - :smile: Pronouns: ...
-- :zap: Fun fact: I love to play video games
+- :zap: Fun fact: I like ride bike.
 
 [![ Ashek Al Mahady GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahady-95&show_icons=true&theme=radical)](https://github.com/Mahady-95)
 <br><br>
