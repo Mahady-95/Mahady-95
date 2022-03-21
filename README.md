@@ -5,7 +5,7 @@
 
 ## I am a student of American Inrernational University-Bangladesh
 
-- :seedling: I’m currently learning everything :rofl:
+- :seedling: I’m currently learning everything
 - :people_with_bunny_ears_partying: I’m looking to collaborate with other developers
 - :goal: 2021 Goals: Contribute more to Open Source projects
 - :telescope: I’m currently working on ...
