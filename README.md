@@ -5,10 +5,9 @@
 
 ## I am a student of American Inrernational University-Bangladesh
 
-- I’m currently learning everything
+- I’m currently working and learning Software Quality Assurance (SQA)
 - I’m looking to collaborate with other developers
 - Contribute more to Open Source projects
-- I’m currently working on Automation Testting
 - I’m looking for help with ...
 - Ask me about SQA, Manual and Autonmation Testing
 - How to reach me: ashek.mahady.aiub@gmail.com
