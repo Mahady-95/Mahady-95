@@ -5,11 +5,11 @@
 
 ## I am a student of American Inrernational University-Bangladesh
 
-- I’m currently working and learning Software Quality Assurance (SQA)
-- I’m looking to collaborate with other developers
+- I am professional Software Quality Assurance (SQA) Engineer.
+- I am looking to collaborate with other testers or developpers.
 - Contribute more to Open Source projects
 - Ask me about SQA, Manual and Autonmation Testing
-- How to reach me: ashek.mahady.aiub@gmail.com
+- How to reach me? Hit on this address:ashek.mahady.aiub@gmail.com
 
 [![ Ashek Al Mahady GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahady-95&show_icons=true&theme=radical)](https://github.com/Mahady-95)
 <br><br>
