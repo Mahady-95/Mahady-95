@@ -3,9 +3,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AshekMahady?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AshekMahady)
 
-## I am a student of American Inrernational University-Bangladesh
+## I am a professional Software Quality Assurance (SQA) Engineer, Data Analyst, Trainer
 
-- I am professional Software Quality Assurance (SQA) Engineer.
 - I am looking to collaborate with other testers or developpers.
 - Contribute more to Open Source projects
 - Ask me about SQA, Manual and Autonmation Testing
